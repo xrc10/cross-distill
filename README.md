@@ -4,6 +4,7 @@ This is the software for paper "Cross-lingual Distillation for Text Classificati
 
 ## Getting Started
 
+download dataset from this [link](http://nyc.lti.cs.cmu.edu/datasets/cross_distill.tar.gz)
 exp_amazon.sh will run the amazon review experiment in the paper.
 
 ### Prerequisites
